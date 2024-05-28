@@ -24,16 +24,10 @@ total sales across months, December achieved the highest sales rate.
 
  ,this figure shows the products that has highest sales& profit.
  
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+<img width="136" alt="amaz3" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/a7369433-2fd8-4411-8960-f3e2a12710cb">
 
  
- - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
- 
- Following DAX expression was written to find total distance,
- 
-         Total Distance Travelled = SUM(airline_passenger_satisfaction[Flight Distance])
-    
- A card visual was used to represent this total distance.
+,total profit over 2011 till 2014
  
  
  ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
