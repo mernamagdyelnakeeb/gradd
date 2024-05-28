@@ -1,11 +1,11 @@
 
 
-# Airlines-Dashboard
+# Amazon2_raw-Dashboard
 
 ### Dashboard Link : https://dentasuedu-my.sharepoint.com/:u:/g/personal/tokamohamed_dent_asu_edu_eg/EanfUevXRjNMvXPm_VM0XdQBB_hxp_qcsSqJAAXBg_fNTA?e=XxfFRz
 ## Problem Statement
 
-This dashboard helps the amazon2_raw understand their customers better. It helps the amazon2_raw know if their customers are satisfied with their services according to from 2011 to 2014, they get to know their customer' needs and which product has the highest profit and sales, & thus they can improve their services by identifying customer behavior and sales along 2011 to 2014. It also lets them know the sum of average selling price & total profit along 2011 to 2014 & total of COGS, thus since by using this dashboard they have identified TOTAL SALES ,total profit, the most product acheieved the max profit over years , days and months. they can further work on factors responsible for overview sales over years with respect to which product achieved the max profit.
+This dashboard used on dataset from kaggle which helps the amazon2_raw understand their customers better. It helps the amazon2_raw know if their customers are satisfied with their services according to from 2011 to 2014, they get to know their customer' needs and which product has the highest profit and sales, & thus they can improve their services by identifying customer behavior and sales along 2011 to 2014. It also lets them know the sum of average selling price & total profit along 2011 to 2014 & total of COGS, thus since by using this dashboard they have identified TOTAL SALES ,total profit, the most product acheieved the max profit over years , days and months. they can further work on factors responsible for overview sales over years with respect to which product achieved the max profit.
 
 Since, there are products like fasteners , envelopes, and labels achieved lowest sales and lowest profit. thus in all they must work on marketing or make survey on what customers frequently buy to maintain for the curve of customers 'needs. 
 
@@ -19,18 +19,10 @@ total sales over years
 
 total sales across months, December achieved the highest sales rate.
 
-![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
+<img width="206" alt="amazon2" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/c0db4630-56ce-4213-9879-06c9f2b51cd4">
 
-        
- - Step 16 : New measure was created to find  % of customers,
- 
- Following DAX expression was written to find % of customers,
- 
-         % Customers = (DIVIDE(airline_passenger_satisfaction[Count of Customers], 129880)*100)
- 
- A card visual was used to represent this perecntage.
- 
- Snap of % of customers who preferred business class
+
+ ,this figure shows the products that has highest sales& profit.
  
  ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
 
