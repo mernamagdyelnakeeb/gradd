@@ -27,10 +27,11 @@ total sales across months, December achieved the highest sales rate.
 <img width="136" alt="amaz3" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/a7369433-2fd8-4411-8960-f3e2a12710cb">
 
  
-,total profit over 2011 till 2014
+,total profit,total of average selling price ,sum of COGS and total sales over 2011 till 2014.
  
  
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
+<img width="316" alt="455" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/e7f18697-554d-4bd1-a774-91af50e1ad42">
+
  
  - Step 18 : The report was then published to Power BI Service.
  
