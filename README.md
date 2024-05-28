@@ -14,16 +14,10 @@ Also sales are increasing accordingly from 2011 to 2014 thus they're always on i
 
 total sales over years 
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+<img width="198" alt="amazo1" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/c6f23830-6563-408c-a8fa-7ad4b111583d">
 
-        
-- Step 15 : New measure was created to find total count of customers.
 
-Following DAX expression was written for the same,
-        
-        Count of Customers = COUNT(airline_passenger_satisfaction[ID])
-        
-A card visual was used to represent count of customers.
+total sales across months, December achieved the highest sales rate.
 
 ![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
 
