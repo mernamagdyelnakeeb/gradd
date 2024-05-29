@@ -40,7 +40,8 @@ total sales across months, December achieved the highest sales rate.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+<img width="959" alt="dashboard_amazo" src="https://github.com/mernamagdyelnakeeb/gradd/assets/119666800/02bd5514-364c-4216-9e92-d07d655df7e7">
+
 
  
  # Report Snapshot (Power BI DESKTOP)
